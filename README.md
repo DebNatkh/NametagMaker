@@ -1,3 +1,5 @@
+Эта программа - видоизменённая версия утилиты для создания пакетов для игры в шляпу [https://github.com/summer-informatics-school/game-tools](https://github.com/summer-informatics-school/game-tools)
+
 ## packet2pdf
 
 Утилита для генерации готового к нарезке для бейджиков pdf-файла.
